@@ -134,6 +134,21 @@ const Home: NextPage = () => {
               <h3 className="font-bold">Closed</h3>
             </div>
           </div>
+          <div className="flex -translate-y-64 flex-col items-center justify-center rounded-lg border-2 border-lime-200">
+            <Image
+              className="m-2 rounded-full"
+              src="/northward.png"
+              alt="northwarLogo"
+              width={195}
+              height={195}
+            />
+            <div>
+              <h2 className="font-bold">Northward RP</h2>
+            </div>
+            <div className="mb-1 flex flex-row">
+              <h3 className="font-bold">Coming Soon...</h3>
+            </div>
+          </div>
           <div className="flex translate-y-32 rotate-180 animate-pulse items-end justify-center">
             <Link href="#">
               <BsArrowDown className="h-14 w-14" />
