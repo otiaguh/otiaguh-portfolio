@@ -131,15 +131,7 @@ const Home: NextPage = () => {
               <h2 className="font-bold">Isla RP</h2>
             </div>
             <div className="mb-1 flex flex-row">
-              <Link href="https://discord.gg/CEz58YxTJy" target="_blank">
-                <BsDiscord className="m-1 h-5 w-5 " />
-              </Link>
-              <Link href="https://github.com/islarp" target="_blank">
-                <BsGithub className="m-1 h-5 w-5" />
-              </Link>
-              <Link href="https://beta.islarp.com" target="_blank">
-                <TbWorldWww className="m-1 h-5 w-5 " />
-              </Link>
+              <h3 className="font-bold">Closed</h3>
             </div>
           </div>
           <div className="flex translate-y-32 rotate-180 animate-pulse items-end justify-center">
