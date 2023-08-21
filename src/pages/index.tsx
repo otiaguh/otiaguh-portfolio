@@ -157,7 +157,7 @@ const Home: NextPage = () => {
             </Link>
           </div>
           <div>
-            <h6 className="flex items-end justify-center text-xs text-zinc-700">
+            <h6 className="flex translate-y-72 items-end justify-center text-xs text-zinc-700">
               2023 © Tiago Silva. All rigths reserved.
             </h6>
           </div>
