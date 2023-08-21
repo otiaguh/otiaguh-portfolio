@@ -136,12 +136,11 @@ const Home: NextPage = () => {
           </div>
           <div className="flex -translate-y-64 flex-col items-center justify-center rounded-lg border-2 border-lime-200">
             <Image
-              className="m-2 rounded-full"
+              className="m-2 rounded-full rotate-90"
               src="/northward.png"
               alt="northwarLogo"
               width={195}
               height={195}
-              rotate={90}
             />
             <div>
               <h2 className="font-bold">Northward RP</h2>
