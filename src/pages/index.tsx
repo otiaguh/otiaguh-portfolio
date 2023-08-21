@@ -137,7 +137,7 @@ const Home: NextPage = () => {
             </div>
             <div className="flex -translate-y-64 flex-col items-center justify-center rounded-lg border-2 border-lime-200">
               <Image
-                className="flex m-2 -rotate-90 rounded-full"
+                className="m-2 flex -rotate-90 rounded-full"
                 src="/northward.png"
                 alt="northwarLogo"
                 width={195}
@@ -157,7 +157,7 @@ const Home: NextPage = () => {
             </Link>
           </div>
           <div>
-            <h6 className="flex translate-y-72 items-end text-xs text-zinc-700">
+            <h6 className="flex items-end justify-center text-xs text-zinc-700">
               2023 © Tiago Silva. All rigths reserved.
             </h6>
           </div>
