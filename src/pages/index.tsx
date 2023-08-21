@@ -114,7 +114,7 @@ const Home: NextPage = () => {
           className="item-center flex h-screen flex-col justify-center"
           id="projects"
         >
-          <div className="flex -translate-y-72 flex-col items-center justify-center text-xl font-bold ">
+          <div className="flex -translate-y-72 flex-row items-center justify-center text-xl font-bold ">
             <h2>
               <span className="text-lime-200">PROJETOS</span>
             </h2>
@@ -131,7 +131,7 @@ const Home: NextPage = () => {
               <h2 className="font-bold">Isla RP</h2>
             </div>
             <div className="mb-1 flex flex-row">
-              <h3 className="font-bold">Closed</h3>
+              <h3 className="font-semibold">Closed</h3>
             </div>
           </div>
           <div className="flex -translate-y-64 flex-col items-center justify-center rounded-lg border-2 border-lime-200">
@@ -141,12 +141,13 @@ const Home: NextPage = () => {
               alt="northwarLogo"
               width={195}
               height={195}
+              rotate={90}
             />
             <div>
               <h2 className="font-bold">Northward RP</h2>
             </div>
             <div className="mb-1 flex flex-row">
-              <h3 className="font-bold">Coming Soon...</h3>
+              <h3 className="font-semibold">Coming Soon...</h3>
             </div>
           </div>
           <div className="flex translate-y-32 rotate-180 animate-pulse items-end justify-center">
