@@ -147,7 +147,7 @@ const Home: NextPage = () => {
                 <h2 className="font-bold">Northward RP</h2>
               </div>
               <div className="mb-1 flex flex-row">
-                <h3 className="font-medium">Coming Soon...</h3>
+                <h3 className="font-medium">Interrupeted</h3>
               </div>
             </div>
           </div>
