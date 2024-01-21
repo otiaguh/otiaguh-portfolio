@@ -53,7 +53,7 @@ const Home: NextPage = () => {
                 <p>
                   Olá, eu sou o
                   <span className=" text-lime-200"> Tiago Silva</span>, tenho
-                  <span className=" text-lime-200 "> 16 anos</span>, vivo em
+                  <span className=" text-lime-200 "> 17 anos</span>, vivo em
                   <span className="text-lime-200"> Sines, Portugal</span>
                   <br /> e sou desenvolvedor
                   <span className="text-lime-200"> Full-Stack</span>.
