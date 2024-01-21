@@ -132,7 +132,7 @@ const Home: NextPage = () => {
                 <h2 className="font-bold">Isla RP</h2>
               </div>
               <div className="mb-1 flex flex-row">
-                <h3 className="font-medium">Closed</h3>
+                <h3 className="font-medium">Ended</h3>
               </div>
             </div>
             <div className="flex -translate-y-64 flex-col items-center justify-center rounded-lg border-2 border-lime-200">
@@ -147,7 +147,7 @@ const Home: NextPage = () => {
                 <h2 className="font-bold">Northward RP</h2>
               </div>
               <div className="mb-1 flex flex-row">
-                <h3 className="font-medium">Interrupeted</h3>
+                <h3 className="font-medium">Ended</h3>
               </div>
             </div>
           </div>
