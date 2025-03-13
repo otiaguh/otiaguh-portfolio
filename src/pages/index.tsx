@@ -150,6 +150,22 @@ const Home: NextPage = () => {
                 <h3 className="font-medium">Ended</h3>
               </div>
             </div>
+            <div className="flex -translate-y-64 flex-col items-center justify-center rounded-lg border-2 border-lime-200">
+              <Image
+                className="m-2 flex rounded-full"
+                src="/logo-white.png"
+                alt="atlas-logo"
+                width={195}
+                height={195}
+                
+              />
+              <div>
+                <h2 className="font-bold">ATLAS</h2>
+              </div>
+              <div className="mb-1 flex flex-row">
+                <h3 className="font-medium">Em desenvolvimento...</h3>
+              </div>
+            </div>
           </div>
           <div className="flex translate-y-32 rotate-180 animate-pulse items-end justify-center">
             <Link href="#">
