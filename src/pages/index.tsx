@@ -52,7 +52,7 @@ const Home: NextPage = () => {
               <div className="mt-20 flex items-center justify-center text-center text-2xl">
                 <p>
                   Olá, eu sou o
-                  <span className=" text-lime-200"> João Mário</span>, tenho
+                  <span className=" text-lime-200"> Tiago Silva</span>, tenho
                   <span className=" text-lime-200 "> 17 anos</span>, vivo em
                   <span className="text-lime-200"> Sines, Portugal</span>
                   <br /> e sou desenvolvedor
