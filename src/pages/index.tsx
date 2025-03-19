@@ -25,7 +25,7 @@ const UpdatePage = () => {
             <Link href="/outdate">
               <span className="text-lime-200 cursor-pointer hover:underline">clique aqui</span>
             </Link>{' '}
-            para acessar o antigo. TESTE
+            para acessar o antigo.
           </h1>
         </div>
         <div className="pb-4 text-center">
