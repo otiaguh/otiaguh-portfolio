@@ -22,7 +22,7 @@ const UpdatePage = () => {
             className={`text-2xl md:text-4xl font-bold text-center transition-opacity duration-1000 ${fade ? "opacity-100" : "opacity-0"}`}
           >
             Este portfólio foi descontinuado,{' '}
-            <Link href="tiagosdev.vercel.app">
+            <Link href="https://tiagosdev.vercel.app">
               <span className="text-lime-200 cursor-pointer hover:underline">clique aqui</span>
             </Link>{' '}
             para acessar o novo.
