@@ -21,11 +21,11 @@ const UpdatePage = () => {
           <h1
             className={`text-2xl md:text-4xl font-bold text-center transition-opacity duration-1000 ${fade ? "opacity-100" : "opacity-0"}`}
           >
-            Este portfólio está a ser atualizado,{' '}
-            <Link href="/outdate">
+            Este portfólio foi descontinuado,{' '}
+            <Link href="tiagosdev.vercel.app">
               <span className="text-lime-200 cursor-pointer hover:underline">clique aqui</span>
             </Link>{' '}
-            para acessar o antigo.
+            para acessar o novo.
           </h1>
         </div>
         <div className="pb-4 text-center">
